@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1659166974	Play_Music_Ambience			\Default Work Unit\Play_Music_Ambience	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	154831563	Music_Ambience	C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Final_Test_Wwise_WwiseProject\.cache\32\{32EE7A72-ABFB-FB22-A09B-B47EFBCB773B}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Music_Ambience		57600096
+

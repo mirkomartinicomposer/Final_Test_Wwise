@@ -1,0 +1,45 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "3161908922",
+    "Type": "User",
+    "GUID": "{0B8E7B72-8FAE-4A81-AC0E-939E88361928}",
+    "Language": "SFX",
+    "Hash": "{6BEF271B-6BEE-1D01-66F3-48E63AEA3184}",
+    "ObjectPath": "\\SoundBanks\\Default Work Unit\\Main",
+    "ShortName": "Main",
+    "Path": "Main.bnk",
+    "Media": [
+     {
+      "Id": "154831563",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Memory",
+      "ShortName": "MUS_AMB 8_Albion ONE_PTX - Long Doom Bass MW.wav",
+      "CachePath": "32/{32EE7A72-ABFB-FB22-A09B-B47EFBCB773B}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1659166974",
+      "Name": "Play_Music_Ambience",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_Music_Ambience",
+      "GUID": "{8BE4FEA7-6C17-4813-ACC1-0E0A70E6C0FA}",
+      "DurationType": "Infinite",
+      "MediaRefs": [
+       {
+        "Id": "154831563"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{F1C15A85-45D1-079D-5151-E417ACDCC29F}"
+ }
+}
