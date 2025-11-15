@@ -1,6 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{745F3E6F-0037-4DA4-8DF1-A2A3FA219788}" SchemaVersion="123">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{745F3E6F-0037-4DA4-8DF1-A2A3FA219788}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{745F3E6F-0037-4DA4-8DF1-A2A3FA219788}" PersistMode="Standalone">
+			<ChildrenList>
+				<Sound Name="Music_Ambience" ID="{D35B6584-FF8D-4367-84B5-448DDD0539A7}" ShortID="521597002">
+					<PropertyList>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{AC330009-9656-4AE0-AF37-A9C2522E5376}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C5C34FAB-49DA-410F-8D89-BE89364580ED}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="MUS_AMB 8_Albion ONE_PTX - Long Doom Bass MW" ID="{05393B17-9F98-47DD-87A0-A2034FB705B6}">
+							<Language>SFX</Language>
+							<AudioFile>MUS_AMB 8_Albion ONE_PTX - Long Doom Bass MW.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="154831563"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="MUS_AMB 8_Albion ONE_PTX - Long Doom Bass MW" ID="{05393B17-9F98-47DD-87A0-A2034FB705B6}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>
