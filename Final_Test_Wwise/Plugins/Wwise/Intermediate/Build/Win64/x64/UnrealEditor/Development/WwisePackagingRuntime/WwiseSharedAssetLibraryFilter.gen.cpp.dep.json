@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\unrealeditor\\inc\\wwisepackagingruntime\\uht\\wwisesharedassetlibraryfilter.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\intermediate\\build\\win64\\x64\\final_test_wwiseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wwisepackagingruntime\\definitions.wwisepackagingruntime.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\packaging\\wwisesharedassetlibraryfilter.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\packaging\\wwisefilterableassetlibrary.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\packaging\\wwiseassetlibraryinfo.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\unrealeditor\\inc\\wwisepackagingruntime\\uht\\wwiseassetlibraryinfo.generated.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\unrealeditor\\inc\\wwisepackagingruntime\\uht\\wwisefilterableassetlibrary.generated.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\unrealeditor\\inc\\wwisepackagingruntime\\uht\\wwisesharedassetlibraryfilter.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

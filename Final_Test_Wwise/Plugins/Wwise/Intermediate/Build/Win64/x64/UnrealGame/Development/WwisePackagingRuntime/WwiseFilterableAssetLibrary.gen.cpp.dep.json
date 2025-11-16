@@ -1,0 +1,17 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwisefilterableassetlibrary.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\intermediate\\build\\win64\\x64\\final_test_wwise\\development\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\development\\wwisepackagingruntime\\definitions.wwisepackagingruntime.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\packaging\\wwisefilterableassetlibrary.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwisefilterableassetlibrary.generated.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\source\\wwisepackagingruntime\\public\\wwise\\packaging\\wwiseassetlibraryinfo.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwisepackagingruntime\\uht\\wwiseassetlibraryinfo.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

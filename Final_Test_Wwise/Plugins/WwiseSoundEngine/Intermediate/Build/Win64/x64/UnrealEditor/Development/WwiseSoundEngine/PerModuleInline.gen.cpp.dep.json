@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwisesoundengine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wwisesoundengine\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\intermediate\\build\\win64\\x64\\final_test_wwiseeditor\\development\\core\\sharedpch.core.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwisesoundengine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\wwisesoundengine\\definitions.wwisesoundengine.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

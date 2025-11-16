@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WwiseAuthoring.cpp.obj": [
+			"WAAPI_Bridge.cpp.obj",
+			"WAAPI_Null.cpp.obj",
+			"WwiseAuthoringModule.cpp.obj",
+			"PerModuleInline.gen.cpp.obj"
+		]
+	}
+}

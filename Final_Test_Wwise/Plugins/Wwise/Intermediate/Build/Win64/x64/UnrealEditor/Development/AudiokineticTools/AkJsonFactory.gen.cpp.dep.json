@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\unrealeditor\\inc\\audiokinetictools\\uht\\akjsonfactory.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\intermediate\\build\\win64\\x64\\final_test_wwiseeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\audiokinetictools\\definitions.audiokinetictools.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\source\\audiokinetictools\\classes\\factories\\akjsonfactory.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\unrealeditor\\inc\\audiokinetictools\\uht\\akjsonfactory.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

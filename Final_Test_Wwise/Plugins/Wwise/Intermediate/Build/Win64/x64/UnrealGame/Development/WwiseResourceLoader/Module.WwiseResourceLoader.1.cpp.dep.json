@@ -1,0 +1,22 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\development\\wwiseresourceloader\\module.wwiseresourceloader.1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\intermediate\\build\\win64\\x64\\final_test_wwise\\development\\engine\\sharedpch.engine.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\x64\\unrealgame\\development\\wwiseresourceloader\\definitions.wwiseresourceloader.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\source\\wwiseresourceloader\\private\\wwise\\cookeddata\\wwiseacoustictexturecookeddata.cpp",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\source\\wwiseresourceloader\\public\\wwise\\cookeddata\\wwiseacoustictexturecookeddata.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\source\\wwiseengineutils\\public\\wwisecookeventcontext.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\public\\wwise\\wwiseunrealversion.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\intermediate\\build\\win64\\unrealgame\\inc\\wwiseresourceloader\\uht\\wwiseacoustictexturecookeddata.generated.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\source\\wwiseresourceloader\\public\\wwise\\stats\\resourceloader.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwisesoundengine\\source\\wwiselowlevelutils\\public\\wwise\\stats\\namedevents.h",
+            "c:\\users\\midi\\documents\\unreal projects\\final_test_wwise\\final_test_wwise\\plugins\\wwise\\source\\wwiseutils\\public\\wwise\\stats\\memory.h",
+            "c:\\program files (x86)\\windows kits\\10\\include\\10.0.26100.0\\ucrt\\inttypes.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

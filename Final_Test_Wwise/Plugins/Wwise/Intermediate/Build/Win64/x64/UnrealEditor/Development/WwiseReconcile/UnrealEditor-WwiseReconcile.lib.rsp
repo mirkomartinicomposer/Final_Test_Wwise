@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WwiseReconcile.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Intermediate\Build\Win64\x64\Final_Test_WwiseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseReconcile\Module.WwiseReconcile.cpp.obj"
+"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseReconcile\PerModuleInline.gen.cpp.obj"
+"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseReconcile\WwiseReconcile.init.gen.cpp.obj"
+"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseReconcile\WwiseReconcileCommandlet.gen.cpp.obj"
+"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseReconcile\Default.rc2.res"
+/OUT:"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Plugins\Wwise\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseReconcile\UnrealEditor-WwiseReconcile.lib"

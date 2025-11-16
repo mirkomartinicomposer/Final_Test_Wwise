@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-WwiseNiagara.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Intermediate\Build\Win64\x64\Final_Test_WwiseEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Plugins\WwiseNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseNiagara\Module.WwiseNiagara.cpp.obj"
+"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Plugins\WwiseNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseNiagara\PerModuleInline.gen.cpp.obj"
+"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Plugins\WwiseNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseNiagara\NiagaraDataInterfaceWwiseEvent.gen.cpp.obj"
+"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Plugins\WwiseNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseNiagara\WwiseNiagara.init.gen.cpp.obj"
+"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Plugins\WwiseNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseNiagara\Default.rc2.res"
+/OUT:"C:\Users\MIDI\Documents\Unreal Projects\Final_Test_Wwise\Final_Test_Wwise\Plugins\WwiseNiagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\WwiseNiagara\UnrealEditor-WwiseNiagara.lib"
